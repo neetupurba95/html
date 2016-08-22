@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/lubuntu/swiftcode-bnmit/conf/routes,/home/lubuntu/swiftcode-bnmit/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/lubuntu/swiftcode-bnmit/conf/application.conf,/home/lubuntu/swiftcode-bnmit/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/lubuntu/swiftcode-bnmit/conf/logback.xml,/home/lubuntu/swiftcode-bnmit/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/lubuntu/swiftcode-bnmit/conf/evolutions,/home/lubuntu/swiftcode-bnmit/target/scala-2.11/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/home/lubuntu/swiftcode-bnmit/conf/evolutions/default,/home/lubuntu/swiftcode-bnmit/target/scala-2.11/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/home/lubuntu/swiftcode-bnmit/conf/evolutions/default/1.sql,/home/lubuntu/swiftcode-bnmit/target/scala-2.11/classes/evolutions/default/1.sql)[0m
